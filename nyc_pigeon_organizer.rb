@@ -5,3 +5,5 @@ def nyc_pigeon_organizer(data)
     puts "#{key}, #{value}"
   end
 end
+
+nyc_pigeon_organizer(data)
