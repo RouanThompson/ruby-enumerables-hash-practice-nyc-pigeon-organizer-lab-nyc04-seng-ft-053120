@@ -4,5 +4,4 @@ def nyc_pigeon_organizer(data)
   data.each do |key, value|
     puts "#{key}, #{value}"
   end
-  new_hash
 end
