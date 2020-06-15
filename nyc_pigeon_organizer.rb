@@ -38,6 +38,5 @@ def nyc_pigeon_organizer(data)
       :lives => []
     }
   }
-  binding.pry
   data
 end
