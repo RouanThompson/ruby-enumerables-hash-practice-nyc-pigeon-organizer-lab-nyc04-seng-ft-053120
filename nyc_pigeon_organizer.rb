@@ -2,7 +2,7 @@ def nyc_pigeon_organizer(data)
   # write your code here!
   new_hash = {}
   data.each do |hash, (key, value)|
-    puts "#{hash} #{key}, #{value}"
+    puts "#{hash} => #{key}, #{value}"
     if key
   end
 end
