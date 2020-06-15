@@ -11,8 +11,8 @@ pigeon_data = {
     :brown => ["Luca"],
     :black => ["Lola"],
     :kin => {
-      :bola = [batty] ,
-      :dotta = [pussy],
+      :bola => [batty] ,
+      :dotta => [pussy],
     }
   },
   :gender => {
