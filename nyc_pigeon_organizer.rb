@@ -38,5 +38,5 @@ def nyc_pigeon_organizer(data)
       :lives => []
     }
   }
-  data
+  new_hash
 end
